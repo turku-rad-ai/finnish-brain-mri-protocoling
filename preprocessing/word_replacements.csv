@@ -1,0 +1,197 @@
+AVH,avh,aivoinfarkti,aivotapahtuma,aivoverenkiertohäiriö,TIA,aivohalvaus,pikkuaivoinfarkti,infarkti,lakuna,lakunainfarkti,aivoinfarkti,lacuna,lacunainfarkti,lakunaarinen infarkti,lacunaarinen infarkti,infarktijälki,infarktin jälkitila
+SDH,sdh,subduraalihematooma,subduraalivuoto,kovakalvonalainen vuoto,kovakalvonalainen verenvuoto,aivoverenvuoto,subduraalinen vuoto,subduraalinen hematooma
+SAV,sav,SA-vuoto,subaraknoidaalivuoto,lukinkalvonalainen vuoto,aivoverenvuoto
+ICH,ich,intraserebraalinen vuoto,aivoverenvuoto
+EDH,epiduraalivuoto,epiduraalihematooma,epiduraalinen vuoto,epiduraalinen hematooma,ekstraduraalivuoto
+hemorragia,vuoto,verenvuoto,hematooma
+kontuusio,aivokontuusio,aivoruhje,aivovamma
+sinustromboosi,sinustrombi,aivolaskimotukos
+stenoosi,ahtauma,kaventuma
+basilaaritrombi,basilaaritukos,basilariksen tukos,basilaristukos,kallonpohjavaltimotukos
+iskemiaa,iskeemistä,infarktia,aivoinfarktia,infarktaatiota
+DAI,aksonivaurio,diffuusi aksonivaurio
+kommootio,commootio,commotio
+kommootioseuranta,commootioseuranta,commotioseuranta
+ekspansio,tuumori,massa,pesäke,kasvain,maligniteetti,syöpä,neoplasia
+ekspansiivinen,tuumorimainen,maligni,pahanlaatuinen
+ekspansiivista,tuumoria,kasvainta,malignia,maligniteettia,pahanlaatuista
+metastaasi,etäpesäke,pesäke
+levinnyt,metastasoitunut
+levinneisyyttä,metastasointia
+meningeooma,meningeoma,meningiooma,meningioma,aivokalvonkasvain
+gliooma,glioma,ependymooma,astrosytooma,oligodendrogliooma,glioblastooma,glioblastoma,medulloblastooma,gangliogliooma,oligoastrosytooma,aivokasvain
+schwannooma,neurinooma,swannooma,schwannoma,neurooma,neurinoma
+akustikusneurinooma,akustikusneurooma,akusticusneurinooma,acusticusneurinooma,vestribulaarischwannooma,vestibularischwannoma
+hypofyysiadenooma,kraniofaryngiooma,kraniofaryngeooma,kraniofaryngioma,aivolisäkekasvain,aivolisäkeadenooma
+gradus,luokka,gr,gr.
+ödeema,ödeemi,turvotus
+abskessi,abscessi,paise
+tulehduksellinen,infektiivinen
+enkefaliitti,meningiitti,meningoenkefaliitti,aivokalvotulehdus,aivokalvontulehdus,bakteerimeningiitti,virusmeningiitti,sienimeningiitti,herpesenkefaliitti,herpes-enkefaliitti,aivokuume,puutiaisaivokuume,TBE,virusenkefaliitti
+HIV,hiv,HI-virus,hepatiitti C,C-hepatiitti,herpes,herpes simplex,varicella zoster,VZV,vesirokko,vesirokkovirus,cytomegalo,cytomegalovirus,CBV,epstein-barrin virus,epstein-barr virus,epstein-barr,EBV
+listeria,listerioosi,toksoplasma,toksoplasmoosi,borrelia,borrelioosi,tuberkuloosi,tubi,aspergillus,aspergilloosi
+HBO-hoito,hbo-hoito,korkeapainehappihoito,ylipainehappihoito,ylipainehappi
+talamus,thalamus
+tyvitumakkeet,basaaligangliot
+tyvitumake,basaaliganglio
+nucleus lentiform,nucleus lentiformis,linssitumake,lentiformis
+nucleus caudatus,caudatus
+aivosilta,pons
+ydinjatke,ydinjatkos,medulla
+hypofyysi,aivolisäke
+okkipitaali,occipitaali,frontaali,temporaali,parietaali,frontotemporaali,frontoparietaali,parietotemporaali,parieto-okkipitaali,parieto-occipitaali,temporoparietaali
+frontaalinen,temporaalinen,parietaalinen,okkipitaalinen,frontotemporaalinen,frontoparietaalinen,temporoparietaalinen,parietotemporaalinen,parieto-okkipitaalinen,temporo-okkipitaalinen
+frontaalilohko,otsalohko,temporaalilohko,ohimolohko,parietaalilohko,okkipitaalilohko
+otsa,päälaki,ohimo,ohimoseutu,takaraivo
+aivokuori,korteksi,cortex
+pupilli,pupilla,mustuainen
+carotis,karotis
+carotikset,karotikset
+ICA,ica,carotis interna,karotis interna,sisempi kaulavaltimo
+vertebralis,nikamavaltimo
+vertebralikset,nikamavaltimot
+basilaris,basillaris,basilaaris,kallonpohjavaltimo,basilaarivaltimo
+aivopaine,kallonsisäinen paine,intrakranielli paine
+aivopaineen,kallonsisäisen paineen,intrakraniellin paineen
+kammiokoko,kammioiden koot,kammioiden koko,ventrikkelien koko,ventrikkelisysteemin koko,aivokammioiden koko
+aivokammio,kammio,ventrikkeli
+aivokammiot,kammiot,ventrikkelit,ventrikkelisysteemi
+facialis,kasvohermo
+facialispareesi,kasvohermohalvaus
+hemi,hemipareesi,raajaparin halvaus,raajaparin heikkous,hemiplegia
+plegia,pareesi,paresia,halvaus,heikkous,pleegisyys,motorinen heikkous,voimapuutos,voimanalenema
+sensoriikka,tunto
+kollapsi,pyörtyminen,pyörtymiskohtaus,tajunnanmenetys
+muistiaukko,muistinmenetys,amnesia
+muistiongelma,muistamattomuus,muistihäiriö,muistisairaus,dementia,alzheimer,Alzheimerin tauti,alzheimerin tauti,AT
+sekavuus,desorientaatio
+sekava,desorientoitunut,poissaoleva
+tasapainovaikeus,tasapainonheikkous,huojuva olo,kaatuilu
+huimaus,pyörrytys,pyörytys
+pyörittävä huimaus,kiertohuimaus,kiertävä huimaus,karusellimainen huimaus,vertigo
+puutuneisuus,puutuminen,tuntopuutos,parestesia,tunnonalenema
+afasia,puhehäiriö,dysartria,puheen puuroutuminen,puheentuoton häiriö,puheentuoton ongelma,sanahakuisuus
+afasiaa,dysartriaa,puheen puuroutumista,puheentuoton häiriötä,puheentuoton ongelmaa,sanahakuisuutta
+ataksia,kömpelyys,dysmetria
+ataksinen,ataktinen,kömpelö,haparoiva,dysmetrinen
+ataksiaa,kömpelyyttä,dysmetriaa
+fluktuoiva,aaltoileva,vaihteleva
+päänsärky,päänsärkyoire
+päänsärkyä,päänsärkyoiretta
+sykkivä,pulsoiva,jomottava
+visus,näkö,näkökyky,näöntarkkuus
+diplopia,kaksoiskuvat
+diplopiaa,kaksoiskuvia,kahtena näkemistä
+hydrokefalus,hydrocephalus,likvorkierron häiriö
+nielemisvaikeus,nielemisoire,palan tunne,dysfagia,globus
+humina,tinnitus
+spinaalikanava,ydinkanava,selkäydinkanava
+perusterve,terve,somaattisesti terve,aiemmin terve
+yt,YT,yleistila,yleisvointi,vointi
+yt-lasku,YT-lasku,yleistilan lasku,voinnin heikkeneminen,yleisvoinnin lasku
+phv,pahoinvointi,huonovointisuus
+kuumetta,kuumeilua,lämpöä,lämpöilyä
+kuume,lämpö,kuumeilu,lämpöily
+ausk,auskultaatio,auskultoiden
+palp,palpoiden,palpaatiossa
+neur. status,neurologinen status,neu status,neurostatus,aivohermostatus
+EKG,sydänfilmi,ekg
+ekg:ssä,EKG:ssä,sydänfilmissä,ekgssä,EKGssä
+CRP,crp,tulehdusarvo
+virtsaneritys,diureesi
+SNK,snk,SNP,snp,KPK,kpk,sormi-nenänpääkoe,kanta-polvikoe,osoituskokeet
+resekoida,operoida,leikata
+resekoitu,operoitu,leikattu
+resektio,operaatio,leikkaus,poisto,ekstirpaatio
+post op,pop,POP,post. op,post.op.,postoperatiivinen,leikkauksen jälkeen
+preop,preoperatiivinen,ennen leikkausta
+parkinson,parkinsonin tauti,Parkinsonin tauti,Parkinson,parkinsonismi
+RR,verenpaine,rr
+RR-tauti,rr-tauti,verenpainetauti,HTA,hta,hypertensio
+hyperkolesterolemia,hyperlipidemia,korkea kolesteroli,kolesterolitauti
+DM,diabetes,sokeritauti,diabetes mellitus
+DM2,dm2,DMII,2-tyypin diabetes,II-tyypin diabetes,kakkostyypin diabetes,diabetes,aikuistyypin diabetes,tyypin 2 diabetes,T2DM
+DM1,dm1,1-tyypin diabetes,ykköstyypin diabetes,diabetes,sokeritauti,nuoruustyypin diabetes,juveniili diabetes,T1DM
+FA,fa,flimmeri,eteisvärinä,eteislepatus,flutteri
+MCC,mcc,sepelvaltimotauti,koronaaritauti,ASO,aso,ASO-tauti,aso-tauti,valtimotauti
+sydäninfarkti,sydänkohtaus,STEMI,stemi,NSTEMI,nstemi,UAP,uap
+syd. vt,sydämen vt,sydämen vajaatoiminta,syd. vajaatoiminta,HFrEF
+COPD,copd,keuhkoahtaumatauti,astma,keuhkofibroosi
+ylipaino,obesiteetti,lihavuus
+hypotyreoosi,kilpirauhasen vajaatoiminta
+hypertyreoosi,kilpirauhasen liikatoiminta
+rintasyöpä,mammakarsinooma,mamma-ca
+eturauhassyöpä,prostatakarsinooma,prostata-ca
+uroteelisyöpä,uroteelikarsinooma,uroteeli-ca,virtsarakkosyöpä,virtsarakkokarsinooma,virtsarakko-ca,rakkosyöpä,rakkokarsinooma,rakko-ca,munuaissyöpä,munuaiskarsinooma,munuais-ca
+keuhkosyöpä,keuhkokarsinooma,keuhko-ca
+levyepiteelisyöpä,levyepiteelikarsinooma,levyepiteeli-ca
+maksasyöpä,maksakarsinooma,hepatosellulaarisyöpä,hepatosellulaarikarsinooma,hepatosellulaarinen karsinooma,hepatosellulaari-ca,HCC,kolangiokarsinooma,kolangio-ca,sappitiehytsyöpä
+nielusyöpä,nielukarsinooma,tonsillasyöpä,tonsillakarsinooma,sylkirauhassyöpä,sylkirauhaskarsinooma,kielisyöpä,kielikarsinooma,kurkunpään syöpä,kurkunpään karsinooma
+suolistosyöpä,paksusuolisyöpä,colon-ca,kolonkarsinooma,colonkarsinooma,rektumsyöpä,rektumkarsinooma,rektum-ca,kolorektaalisyöpä,kolorektaalikarsinooma,kolorektaali-ca,peräsuolisyöpä,peräsuolikarsinooma
+haimasyöpä,haimakarsinooma,haima-ca
+neuroendokriininen tuumori,NET,GIST,karsinoidi tuumori,karsinoidituumori,karsinoidisyöpä
+sarkooma,osteosarkooma,kondrosarkooma,chondrosarkooma,rhabdomyosarkooma,rabdomyosarkooma,liposarkooma,leiomyosarkooma,angiosarkooma
+myelooma,leukemia,lymfooma,ALL,AML,KLL,KML
+depressio,masennus,mielialahäiriö,mt-ongelmaa,bipolaarihäiriö,kaksisuuntainen mielialahäiriö,paniikkihäiriö,skitsofrenia,adhd,ADHD,asperger,Asperger,autismi,OCD,ocd
+nivelreuma,reuma,selkärankareuma,lihasreuma,nivelpsoriaasi,psoriaasi,sjögrenin syndrooma,sjögren,polymyalgia,kihti,sidekudostauti,spondylartropatia,spondyloartropatia
+PCI,pci,pallolaajennus,pallolaajennettu
+CABG,cabg,ohitusleikkaus,ohitusleikattu
+ak-hoito,AK-hoito,antikoagulantti,antikoagulanttihoito,verenohennuslääke,verenohennuslääkitys,ak-lääkitys,ak-lääke,AK-lääkitys,AK-lääke,Xarelto,Eliquis,Marevan,Lixiana,Plavix,trombiprofylaksia,Klexane,Innohep,Inhixa,Plavix
+sytostaatti,solunsalpaaja
+e-pillerit,E-pillerit,ehkäisypillerit,hormoniehkäisy,hormonaalinen ehkäisy
+kipulääke,ibuprofeeni,ibuprofeiini,burana,Burana,Ibumax,Ibusal,Ibuxin,parasetamoli,paracetamoli,Pamol,panadol,Panadol,Panacod,Paramax,Para-tabs,kipulääke,särkylääke,Tramadol,tramadoli
+alkoholi,alko
+alkoholia,alkoa
+iv-huumekäyttö,i.v. huumekäyttö,iv-päihdekäyttö,iv-päihteiden käyttö,iv-huumeiden käyttö,päihdeongelma,päihdekäyttö,päihteiden käyttö,huumeongelma
+osteopenia,osteoporoosi,luukato
+oikea,oik.,oik,oikea,vas.,vas,vasen
+oikealla,vasemmalla
+norm,ok,normaali
+yläraaja,alaraaja,käsi,jalka
+potilas,tutkittava,pot.,pot
+allekirjoittanut,ak
+lääkäri,kollega,erikoistuva,kandi,amanuenssi
+P.k.,P.k,P.K.,P.K,PK,PK.,pk,pk.,p.k.,p.k,pyyd.koht.,pyyd. koht.
+vuotias,v.,v
+akuuttia,aktuellia,tuoretta,ajankohtaista
+TT-angio,CT-angio,TT angio,tt-angio,CTA,tt angio,angio-TT,angio-CT
+pään TT,pään CT,pään tt,natiivi-TT,natiivi tt
+pään MRI,pään MK,aivojen MRI,MRI,aivojen magneettikuvaus,pään magneettikuvaus
+MRA,pään MRA,aivovaltimoiden MRA
+tyttö,poika,lapsi,nuori
+nainen,mies
+puoliso,vaimo,kumppani
+loukata,satuttaa,kolhaista,kolhia
+pudota,tippua,tipahtaa
+särkeä,sattua,jomottaa,aristaa
+huomata,todeta
+yksi,kaksi,kolme,neljä,viisi,kuusi,seitsemän,kahdeksan,yhdeksän,kymmenen,muutama
+vk,viikko
+pv,vrk,päivä,vuorokausi
+aamu,aamupäivä,päivä,keskipäivä,iltapäivä,ilta,alkuilta,yö,aamuyö
+tammikuu,helmikuu,maaliskuu,huhtikuu,toukokuu,kesäkuu,heinäkuu,elokuu,syyskuu,lokakuu,marraskuu,joulukuu
+talvi,kevät,kesä,syksy,kevättalvi,alkukevät,loppukevät,alkukesä,loppukesä,alkusyksy,loppusyksy,syystalvi
+maanantai,tiistai,keskiviikko,torstai,perjantai,lauantai,sunnuntai
+eilen,edellispäivänä,toissapäivänä,viime viikolla
+eilinen,edellispäiväinen,toissapäiväinen,viimeviikkoinen
+kipeä,arka,aristava
+aggressiivinen,agitoitunut,uhkaava
+stabiili,tasainen
+epästabiili,epätasainen,instabiili
+vuoksi,takia,johdosta
+vähän,lievää,vähäistä
+lievä,vähäinen,pieni
+suuri,kookas,iso
+runsas,graavi
+runsasta,graavia,paljon
+voimakas,kova
+pahentua,lisääntyä
+helpottua,helpottaa,vähentyä
+äkillinen,yllättävä,yhtäkkinen
+pikkuhiljaa,vähitellen,asteittain,hitaasti,hiljalleen
+äkisti,yllättäen,nopeasti,salamannopeasti
+jonkin verran,jkv,vähän
+hieman,aavistuksen
+epäilty,suspekti,suspisio
+aiemmin,edeltävästi,edeltäen
+aiempi,edeltävä
