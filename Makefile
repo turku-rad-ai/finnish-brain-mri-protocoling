@@ -125,7 +125,7 @@ evaluate:
 # Clean
 clean:
 	rm -rf ${OUTPUT_DIR}
-	#@mkdir -p ${OUTPUT_DIR}
+	@mkdir -p ${OUTPUT_DIR}
 
 .PHONY: create_conda_env \
 		install_finnish \
